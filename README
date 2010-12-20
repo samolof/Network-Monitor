@@ -1,0 +1,7 @@
+ This is a network monitoring tool meant to be run from 
+ a Unix/Linux shell command line. The user can pipe in the
+ 'date' command to view network status on certain dates or
+ btw date ranges. For more info see http://nowherefast.wikidot.com/system-monitoring
+
+
+Samolof (samolof@gmail.com)
